@@ -1,5 +1,11 @@
 # EZ ServiceScan - 强大且niubility的网络服务扫描工具
 
+## 如何使用
+
+ServiceScan和EZ共用同一套license授权验证机制。
+
+用户可注册 [M-SEC 社区](https://msec.nsfocus.com/) 后在个人中心申请证书，证书下载后放至ServiceScan工具同目录即可启动使用。
+
 ## 概述
 
 ServiceScan 是一款高效且灵活的网络服务探测工具，旨在快速识别目标网络中的开放端口及服务。它支持多种扫描技术、灵活的参数配置以及被动 API 扫描，能够满足安全测试人员、系统管理员以及网络爱好者在不同场景下的需求。
